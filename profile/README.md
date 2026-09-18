@@ -2,10 +2,9 @@
 
 **Development of various software.**
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/rizer001-Development)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/softwaredev)
 [![Website](https://img.shields.io/badge/Website-rizer001.opik.net-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizer001.opik.net)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/rizer001-Development?tab=License-1-ovl-file)
-[![Email](https://img.shields.io/badge/Email-dan.al.zhu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dan.al.zhu@gmail.com)
 
 ---
 
@@ -77,4 +76,4 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or st
 
 ---
 
-Made by [rizer001](https://github.com/rizer001)
+Made by [rizer001](https://github.com/rizer001)
