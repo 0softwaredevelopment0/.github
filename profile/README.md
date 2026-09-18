@@ -51,7 +51,6 @@
 
 - **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
 - **Website:** [rizer001.opik.net](https://rizer001.opik.net)
-- **Email:** [dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)
 - **Discussions:** [GitHub Discussions](https://github.com/rizer001-Development/.github/discussions)
 
 ---
