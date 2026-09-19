@@ -1,22 +1,22 @@
 # .github
 
-Organization-wide configuration and community health files for **[rizer001-Development](https://github.com/rizer001-Development)**.
+Organization-wide configuration and community health files for **[0softwaredevelopment0](https://github.com/0softwaredevelopment0)**.
 
 ---
 
 ### Organization Docs
 
-[![Guide](https://img.shields.io/badge/Guide-rizer001--Development-00AEFF)](https://github.com/rizer001-Development/.github/blob/main/GUIDE.md) · [![Contributing](https://img.shields.io/badge/Contributing-rizer001--Development-4CAF50)](https://github.com/rizer001-Development/.github/blob/main/CONTRIBUTING.md) · [![Security](https://img.shields.io/badge/Security-rizer001--Development-D9534F)](https://github.com/rizer001-Development/.github/blob/main/SECURITY.md) · [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-rizer001--Development-5BC0DE)](https://github.com/rizer001-Development/.github/blob/main/CODE_OF_CONDUCT.md)
+[![Guide](https://img.shields.io/badge/Guide-Software_Development-00AEFF)](https://github.com/0softwaredevelopment0/.github/blob/main/GUIDE.md) · [![Contributing](https://img.shields.io/badge/Contributing-Software_Development-4CAF50)](https://github.com/0softwaredevelopment0/.github/blob/main/CONTRIBUTING.md) · [![Security](https://img.shields.io/badge/Security-Software_Development-D9534F)](https://github.com/0softwaredevelopment0/.github/blob/main/SECURITY.md) · [![Code of Conduct](https://img.shields.io/badge/Code_of_Conduct-Software_Development-5BC0DE)](https://github.com/0softwaredevelopment0/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ---
 
 ## What is this repository?
 
-This repository contains files that apply across the entire **rizer001-Development** organization:
+This repository contains files that apply across the entire **0softwaredevelopment0** organization:
 
 - **Community health files** — Contributing guidelines, Security policy, Code of Conduct
 - **Issue & PR templates** — Standardized forms for bug reports, feature requests, and pull requests
-- **Organization profile** — The public README displayed on our [organization page](https://github.com/rizer001-Development)
+- **Organization profile** — The public README displayed on our [organization page](https://github.com/0softwaredevelopment0)
 
 These files are automatically referenced by GitHub across all repositories in the organization.
 
@@ -53,7 +53,7 @@ GitHub automatically looks for these files in the `.github` repository as a **fa
 | `CODE_OF_CONDUCT.md` | Linked when creating Issues/PRs |
 | `ISSUE_TEMPLATE/` | Available in every org repo's "New Issue" page |
 | `PULL_REQUEST_TEMPLATE.md` | Auto-attached to every new PR |
-| `profile/README.md` | Displayed on the [organization homepage](https://github.com/rizer001-Development) |
+| `profile/README.md` | Displayed on the [organization homepage](https://github.com/0softwaredevelopment0) |
 
 Individual repositories can override any of these by adding their own version of the file.
 

@@ -1,5 +1,5 @@
 name: Feature Request
-description: Suggest a new feature for any rizer001-Development project
+description: Suggest a new feature for any 0softwaredevelopment0 project
 title: "[Feature]: "
 labels: ["enhancement"]
 body:
@@ -14,17 +14,17 @@ body:
       label: Project
       description: Which project is this feature for?
       options:
+        - RustLauncher
         - SoundPad
-        - PowerLaunch
-        - DevChats
         - IpParser
-        - rizer001_Website
+        - UltraMonitor
+        - DirectMessages
+        - OrganizationWebsite
         - UltimateImprovments
-        - GameplayAdditions
         - IISViewer
         - CubixSMP
-        - Reactive
-        - UltraMonitor
+        - ShiftBypass
+        - PingSpoof
         - NPPsim
         - Other / General
     validations:

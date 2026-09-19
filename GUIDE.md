@@ -1,6 +1,6 @@
-# Guide to the rizer001-Development Organization
+# Guide to the 0softwaredevelopment0 Organization
 
-This guide explains how the **rizer001-Development** organization is put together, what projects we maintain, and how everything stays consistent across the organization. It applies to **all** repositories equally.
+This guide explains how the **0softwaredevelopment0** organization is put together, what projects we maintain, and how everything stays consistent across the organization. It applies to **all** repositories equally.
 
 For *contributing* to the code, see our [Contributing Guide](CONTRIBUTING.md). For security matters, see the [Security Policy](SECURITY.md).
 
@@ -31,17 +31,21 @@ We build open-source tools and plugins. Some are desktop utilities (portable, si
 
 | Project | Type | Description |
 |---------|------|-------------|
-| **SoundPad** | Desktop (Java) | Play sound effects / audio files |
-| **PowerLaunch** | Desktop (Java) | Portable launcher with runtime and logging |
-| **DevChats** | Desktop (Kotlin) | Decentralized peer-to-peer messenger |
-| **IpParser** | Desktop (Java) | Regex/CIDR IP & port scanner with Minecraft probe |
-| **UltraMonitor** | Desktop (Java) | Hardware monitoring and stress tests |
-| **rizer001_Website** | Web (TypeScript) | Organization website |
+| **RustLauncher** | Desktop (Rust) | Minecraft launcher with instances and a Modrinth browser |
+| **SoundPad** | Desktop (Rust) | Play sound effects / audio files |
+| **IpParser** | Desktop (Rust) | Regex/CIDR IP & port scanner with Minecraft probe |
+| **UltraMonitor** | Desktop (Rust) | Hardware monitoring and stress tests |
+| **DirectMessages** | Desktop (Rust) | Encrypted peer-to-peer messenger over TCP |
+| **OrganizationWebsite** | Web (TypeScript) | Organization website |
 | **UltimateImprovments** | Minecraft plugin | Big feature plugin (tech, security, achievements) |
-| **Reactive** | Minecraft server | High-performance server fork |
+| **IISViewer** | Minecraft mod | Client mod and add-on for UltimateImprovments |
+| **CubixSMP** | Minecraft plugin | Essentials plugin for the Cubix server |
+| **ShiftBypass** | Minecraft mod | Small Fabric mod that unblocks Shift in some screens |
+| **PingSpoof** | Minecraft mod | Small Fabric mod that sets a custom ping |
+| **NPPsim** | Desktop (Java) | Nuclear power plant control simulator |
 | **... and more** | — | New projects are added under the same conventions |
 
-Check the organization page for the full up-to-date list: [rizer001-Development](https://github.com/rizer001-Development).
+Check the organization page for the full up-to-date list: [0softwaredevelopment0](https://github.com/0softwaredevelopment0).
 
 ---
 
@@ -79,7 +83,8 @@ Desktop tools are designed to run **portably** — no global installs, no leftov
 
 | Project type | Build tool |
 |--------------|-----------|
-| Java / Kotlin (Gradle) | Gradle (`./gradlew build`) |
+| Java (Gradle) | Gradle (`./gradlew build`) |
+| Rust | Cargo (`cargo build --release`) |
 | Web (TypeScript) | npm (`npm install && npm run dev`) |
 | Minecraft plugins | Gradle multi-module |
 
@@ -87,7 +92,7 @@ Desktop tools are designed to run **portably** — no global installs, no leftov
 
 ## Getting Started
 
-1. Pick a project from the [organization page](https://github.com/rizer001-Development).
+1. Pick a project from the [organization page](https://github.com/0softwaredevelopment0).
 2. Read its `README.md` for install/run instructions.
 3. For desktop tools, download the portable build and run its launcher — no installation needed.
 
@@ -95,11 +100,11 @@ Desktop tools are designed to run **portably** — no global installs, no leftov
 
 ## Where to Ask for Help
 
-- **Questions:** ask in [Discussions](https://github.com/rizer001-Development/.github/discussions) — use the **Q&A** category for anything with a clear answer.
+- **Questions:** ask in [Discussions](https://github.com/0softwaredevelopment0/.github/discussions) — use the **Q&A** category for anything with a clear answer.
 - **Bugs & feature requests:** open an Issue in the specific repository (use the issue templates).
 - **Contributing:** see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Security vulnerabilities:** see [SECURITY.md](SECURITY.md) — report privately, never in a public Issue.
 
 ---
 
-Thank you for being part of rizer001-Development!
+Thank you for being part of 0softwaredevelopment0!

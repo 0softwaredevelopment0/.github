@@ -3,8 +3,8 @@
 **Development of various software.**
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/softwaredev)
-[![Website](https://img.shields.io/badge/Website-rizer001.opik.net-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizer001.opik.net)
-[![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/rizer001-Development?tab=License-1-ovl-file)
+[![Website](https://img.shields.io/badge/Website-softwaredev-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/0softwaredevelopment0)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/0softwaredevelopment0/.github)
 
 ---
 
@@ -14,28 +14,28 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [**PowerLaunch**](https://github.com/rizer001-Development/PowerLaunch) | A Minecraft launcher that lets you launch Minecraft quickly and efficiently | Java |
-| [**UltimateImprovments**](https://github.com/rizer001-Development/UltimateImprovments) | A modular plugin that adds many features to improve your gameplay | Java |
-| [**GameplayAdditions**](https://github.com/rizer001-Development/GameplayAdditions) | A mod — port of UltimateImprovments to NeoForge 1.21.1 | Java |
-| [**IISViewer**](https://github.com/rizer001-Development/IISViewer) | Client mod and add-on for UltimateImprovments — integrity of items | Java |
-| [**CubixSMP**](https://github.com/rizer001-Development/CubixSMP) | A plugin for the Cubix server that adds essential features | Java |
-| [**Reactive**](https://github.com/rizer001-Development/Reactive) | A fork of Purpur focused on ease of use and flexibility | Java |
+| [**RustLauncher**](https://github.com/0softwaredevelopment0/RustLauncher) | A Minecraft launcher that lets you launch Minecraft quickly and efficiently | Rust |
+| [**UltimateImprovments**](https://github.com/0softwaredevelopment0/UltimateImprovments) | A modular plugin that adds many features to improve your gameplay | Java |
+| [**IISViewer**](https://github.com/0softwaredevelopment0/IISViewer) | A client mod and add-on for UltimateImprovments that makes it easy to see the integrity of items | Java |
+| [**CubixSMP**](https://github.com/0softwaredevelopment0/CubixSMP) | A plugin for the CubixSMP server, developed at the request of Gomaks | Java |
+| [**ShiftBypass**](https://github.com/0softwaredevelopment0/ShiftBypass) | A small mod for Fabric that lets you disable the rule that prevents pressing Shift in some screens | Java |
+| [**PingSpoof**](https://github.com/0softwaredevelopment0/PingSpoof) | A small mod for Fabric that lets you set a custom ping on the server | Java |
 
 ### Utilities
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [**SoundPad**](https://github.com/rizer001-Development/SoundPad) | Free, open-source soundboard — hotkeys, categories, drag & drop | Kotlin |
-| [**IpParser**](https://github.com/rizer001-Development/IpParser) | Open-source IP address parser for quickly checking huge numbers of IPs | Java |
-| [**UltraMonitor**](https://github.com/rizer001-Development/UltraMonitor) | Open-source monitor for system sensors and stress tests | Java |
-| [**NPPsim**](https://github.com/rizer001-Development/NPPsim) | Nuclear Power Plant Control Simulator | Java |
+| [**SoundPad**](https://github.com/0softwaredevelopment0/SoundPad) | A free, open-source utility for conveniently playing various sounds | Rust |
+| [**IpParser**](https://github.com/0softwaredevelopment0/IpParser) | An open-source IP address parser for quickly checking a huge number of IP addresses | Rust |
+| [**UltraMonitor**](https://github.com/0softwaredevelopment0/UltraMonitor) | An open-source monitor for system sensors and stress tests | Rust |
+| [**DirectMessages**](https://github.com/0softwaredevelopment0/DirectMessages) | A utility that allows you to send encrypted messages to a specific IP address | Rust |
+| [**NPPsim**](https://github.com/0softwaredevelopment0/NPPsim) | Nuclear Power Plant Control Simulator | Java |
 
-### Communication
+### Web
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [**DevChats**](https://github.com/rizer001-Development/DevChats) | Free, open-source, easy-to-use, and independent messaging app | Kotlin |
-| [**rizer001_Website**](https://github.com/rizer001-Development/rizer001_Website) | Personal website — portfolio, projects, chat | TypeScript |
+| [**OrganizationWebsite**](https://github.com/0softwaredevelopment0/OrganizationWebsite) | The organization website | TypeScript |
 
 ---
 
@@ -43,15 +43,14 @@
 
 | Repositories | Languages | License |
 |:---:|:---:|:---:|
-| **14** | Java, Kotlin, TypeScript | **AGPL-3.0** |
+| **13** | Java, Rust, TypeScript | **AGPL-3.0** |
 
 ---
 
 ## Community
 
-- **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
-- **Website:** [rizer001.opik.net](https://rizer001.opik.net)
-- **Discussions:** [GitHub Discussions](https://github.com/rizer001-Development/.github/discussions)
+- **Discord:** [Join our server](https://dsc.gg/softwaredev)
+- **Discussions:** [GitHub Discussions](https://github.com/0softwaredevelopment0/.github/discussions)
 
 ---
 

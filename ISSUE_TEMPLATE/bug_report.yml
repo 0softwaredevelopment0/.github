@@ -1,5 +1,5 @@
 name: Bug Report
-description: Report a bug in any rizer001-Development project
+description: Report a bug in any 0softwaredevelopment0 project
 title: "[Bug]: "
 labels: ["bug", "triage"]
 body:
@@ -14,17 +14,17 @@ body:
       label: Project
       description: Which project is this bug in?
       options:
+        - RustLauncher
         - SoundPad
-        - PowerLaunch
-        - DevChats
         - IpParser
-        - rizer001_Website
+        - UltraMonitor
+        - DirectMessages
+        - OrganizationWebsite
         - UltimateImprovments
-        - GameplayAdditions
         - IISViewer
         - CubixSMP
-        - Reactive
-        - UltraMonitor
+        - ShiftBypass
+        - PingSpoof
         - NPPsim
         - Other
     validations:

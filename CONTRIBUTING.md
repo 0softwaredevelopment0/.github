@@ -1,6 +1,6 @@
-# Contributing to rizer001-Development
+# Contributing to 0softwaredevelopment0
 
-Thank you for your interest in contributing! This guide applies to all repositories under the **rizer001-Development** organization and explains how to ask for help, report bugs, suggest features, and submit code.
+Thank you for your interest in contributing! This guide applies to all repositories under the **0softwaredevelopment0** organization and explains how to ask for help, report bugs, suggest features, and submit code.
 
 Whether you're fixing a typo or building a whole new module — you're welcome here, and every legitimate contribution counts.
 
@@ -41,8 +41,8 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful, constructi
 
 > **Tip:** use the **Q&A** category for questions that have a clear answer. Mark the best answer as **accepted** when it helped you — it makes the answer easy to find for everyone else, and it's how the community keeps good answers discoverable.
 
-- **Start a Discussion:** [rizer001-Development Discussions](https://github.com/rizer001-Development/.github/discussions)
-- **Chat with us live:** [Discord](https://dsc.gg/rizer001-Development)
+- **Start a Discussion:** [0softwaredevelopment0 Discussions](https://github.com/0softwaredevelopment0/.github/discussions)
+- **Chat with us live:** [Discord](https://dsc.gg/0softwaredevelopment0)
 
 Use **Issues** only for concrete, actionable problems (bugs) or well-scoped feature requests — see below.
 
@@ -52,7 +52,7 @@ Use **Issues** only for concrete, actionable problems (bugs) or well-scoped feat
 
 Not sure where to start? Try:
 
-1. Browse the [repositories](https://github.com/rizer001-Development) and pick one that interests you.
+1. Browse the [repositories](https://github.com/0softwaredevelopment0) and pick one that interests you.
 2. Look for open Issues tagged `good first issue`, `help wanted`, or `enhancement`.
 3. Check active pull requests to avoid duplicating someone else's work.
 4. Ask in Discussions/Discord if a feature is already planned before you invest time.
@@ -138,8 +138,8 @@ Closes #8
 | Project | Language | Style |
 |---------|----------|-------|
 | Java projects | Java | Standard Java conventions (Google Java Style or project-specific `.editorconfig`) |
-| SoundPad, DevChats | Kotlin | Kotlin coding conventions |
-| rizer001_Website | TypeScript | The project's ESLint/Prettier config |
+| Rust projects | Rust | `cargo fmt` + `cargo clippy` clean |
+| OrganizationWebsite | TypeScript | The project's ESLint/Prettier config |
 
 When in doubt, match the surrounding code in the repository you're editing.
 
@@ -151,10 +151,11 @@ Each project has its own build system:
 
 | Project / Type | Build Tool | Command |
 |---------|-----------|---------|
-| Java / Kotlin (Gradle) | Gradle | `./gradlew build` |
-| rizer001_Website | npm | `npm install && npm run dev` |
+| Java (Gradle) | Gradle | `./gradlew build` |
+| Rust projects | Cargo | `cargo build --release` |
+| OrganizationWebsite | npm | `npm install && npm run dev` |
 
-Make sure you have the required JDK installed (usually **Java 21+**, some projects need a newer LTS — check the project README).
+Make sure you have the required toolchain installed: **JDK 21+** for Java projects (some need a newer LTS — check the project README) or a current **Rust** toolchain for Rust projects.
 
 ---
 
@@ -182,8 +183,8 @@ By submitting a contribution, you agree that your work will be licensed under th
 
 ## Still Stuck?
 
-- **Discussions:** [rizer001-Development Discussions](https://github.com/rizer001-Development/.github/discussions)
-- **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
+- **Discussions:** [0softwaredevelopment0 Discussions](https://github.com/0softwaredevelopment0/.github/discussions)
+- **Discord:** [Join our server](https://dsc.gg/0softwaredevelopment0)
 - **Email:** [dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)
 
-Thank you for helping make the rizer001-Development projects better!
+Thank you for helping make the 0softwaredevelopment0 projects better!

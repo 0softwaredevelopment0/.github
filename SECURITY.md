@@ -1,6 +1,6 @@
 # Security Policy
 
-The **rizer001-Development** organization takes security seriously. We appreciate your efforts to responsibly disclose vulnerabilities.
+The **0softwaredevelopment0** organization takes security seriously. We appreciate your efforts to responsibly disclose vulnerabilities.
 
 ---
 
@@ -10,11 +10,10 @@ Security updates are provided for the **latest release** of each project.
 
 | Project | Supported |
 |---------|-----------|
+| RustLauncher | Latest release |
 | SoundPad | Latest release |
-| PowerLaunch | Latest release |
-| DevChats | Latest release |
 | IpParser | Latest release |
-| rizer001_Website | Always running latest |
+| OrganizationWebsite | Always running latest |
 | All other projects | Latest release |
 
 ---
@@ -37,7 +36,7 @@ Include:
 
 ### Option 2: GitHub Security Advisories
 
-Use [GitHub's private vulnerability reporting](https://github.com/rizer001-Development) → Security tab → "Report a vulnerability" in the affected repository.
+Use [GitHub's private vulnerability reporting](https://github.com/0softwaredevelopment0) → Security tab → "Report a vulnerability" in the affected repository.
 
 ---
 
