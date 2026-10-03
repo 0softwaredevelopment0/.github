@@ -2,7 +2,7 @@
 
 **Development of various software.**
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/softwaredev)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/rizer001-Development)
 [![Website](https://img.shields.io/badge/Website-Click-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizer001.opik.net/)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/0softwaredevelopment0/.github/blob/main/LICENSE)
 
@@ -16,7 +16,6 @@
 |---------|-------------|----------|
 | [**RustLauncher**](https://github.com/0softwaredevelopment0/RustLauncher) | A Minecraft launcher that lets you launch Minecraft quickly and efficiently | Rust |
 | [**UltimateImprovments**](https://github.com/0softwaredevelopment0/UltimateImprovments) | A modular plugin that adds many features to improve your gameplay | Java |
-| [**IISViewer**](https://github.com/0softwaredevelopment0/IISViewer) | A client mod and add-on for UltimateImprovments that makes it easy to see the integrity of items | Java |
 | [**CubixSMP**](https://github.com/0softwaredevelopment0/CubixSMP) | A plugin for the CubixSMP server, developed at the request of Gomaks | Java |
 | [**ShiftBypass**](https://github.com/0softwaredevelopment0/ShiftBypass) | A small mod for Fabric that lets you disable the rule that prevents pressing Shift in some screens | Java |
 | [**PingSpoof**](https://github.com/0softwaredevelopment0/PingSpoof) | A small mod for Fabric that lets you set a custom ping on the server | Java |
@@ -29,7 +28,8 @@
 | [**IpParser**](https://github.com/0softwaredevelopment0/IpParser) | An open-source IP address parser for quickly checking a huge number of IP addresses | Rust |
 | [**UltraMonitor**](https://github.com/0softwaredevelopment0/UltraMonitor) | An open-source monitor for system sensors and stress tests | Rust |
 | [**DirectMessages**](https://github.com/0softwaredevelopment0/DirectMessages) | A utility that allows you to send encrypted messages to a specific IP address | Rust |
-| [**NPPsim**](https://github.com/0softwaredevelopment0/NPPsim) | Nuclear Power Plant Control Simulator | Java |
+| [**NPPsim**](https://github.com/0softwaredevelopment0/NPPsim) | Nuclear Power Plant Control Simulator | Rust |
+| [**TheMinesweeper**](https://github.com/0softwaredevelopment0/TheMinesweeper) | The game Minesweeper, written in Rust, with much more functionality than the original | Rust |
 
 ### Web
 
@@ -49,7 +49,7 @@
 
 ## Community
 
-- **Discord:** [Join our server](https://dsc.gg/softwaredev)
+- **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
 - **Discussions:** [GitHub Discussions](https://github.com/0softwaredevelopment0/.github/discussions)
 
 ---

@@ -38,11 +38,11 @@ We build open-source tools and plugins. Some are desktop utilities (portable, si
 | **DirectMessages** | Desktop (Rust) | Encrypted peer-to-peer messenger over TCP |
 | **OrganizationWebsite** | Web (TypeScript) | Organization website |
 | **UltimateImprovments** | Minecraft plugin | Big feature plugin (tech, security, achievements) |
-| **IISViewer** | Minecraft mod | Client mod and add-on for UltimateImprovments |
 | **CubixSMP** | Minecraft plugin | Essentials plugin for the Cubix server |
 | **ShiftBypass** | Minecraft mod | Small Fabric mod that unblocks Shift in some screens |
 | **PingSpoof** | Minecraft mod | Small Fabric mod that sets a custom ping |
-| **NPPsim** | Desktop (Java) | Nuclear power plant control simulator |
+| **NPPsim** | Desktop (Rust) | Nuclear power plant control simulator |
+| **TheMinesweeper** | Desktop (Rust) | Minesweeper game with much more functionality than the original |
 | **... and more** | — | New projects are added under the same conventions |
 
 Check the organization page for the full up-to-date list: [0softwaredevelopment0](https://github.com/0softwaredevelopment0).

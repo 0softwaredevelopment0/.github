@@ -21,11 +21,11 @@ body:
         - DirectMessages
         - OrganizationWebsite
         - UltimateImprovments
-        - IISViewer
         - CubixSMP
         - ShiftBypass
         - PingSpoof
         - NPPsim
+        - TheMinesweeper
         - Other / General
     validations:
       required: true

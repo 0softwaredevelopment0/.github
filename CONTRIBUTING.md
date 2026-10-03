@@ -42,7 +42,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful, constructi
 > **Tip:** use the **Q&A** category for questions that have a clear answer. Mark the best answer as **accepted** when it helped you — it makes the answer easy to find for everyone else, and it's how the community keeps good answers discoverable.
 
 - **Start a Discussion:** [0softwaredevelopment0 Discussions](https://github.com/0softwaredevelopment0/.github/discussions)
-- **Chat with us live:** [Discord](https://dsc.gg/0softwaredevelopment0)
+- **Chat with us live:** [Discord](https://dsc.gg/rizer001-Development)
 
 Use **Issues** only for concrete, actionable problems (bugs) or well-scoped feature requests — see below.
 
@@ -184,7 +184,7 @@ By submitting a contribution, you agree that your work will be licensed under th
 ## Still Stuck?
 
 - **Discussions:** [0softwaredevelopment0 Discussions](https://github.com/0softwaredevelopment0/.github/discussions)
-- **Discord:** [Join our server](https://dsc.gg/0softwaredevelopment0)
+- **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
 - **Email:** [dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)
 
 Thank you for helping make the 0softwaredevelopment0 projects better!
