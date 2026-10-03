@@ -2,7 +2,7 @@
 
 **Development of various software.**
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/rizer001-Development)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/softwaredev)
 [![Website](https://img.shields.io/badge/Website-Click-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizer001.opik.net/)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/0softwaredevelopment0/.github/blob/main/LICENSE)
 
@@ -49,7 +49,7 @@
 
 ## Community
 
-- **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
+- **Discord:** [Join our server](https://dsc.gg/softwaredev)
 - **Discussions:** [GitHub Discussions](https://github.com/0softwaredevelopment0/.github/discussions)
 
 ---
