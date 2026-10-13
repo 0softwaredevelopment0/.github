@@ -24,9 +24,10 @@ Security updates are provided for the **latest release** of each project.
 
 If you discover a security vulnerability, please report it **privately** via one of the following methods:
 
-### Option 1: Email (Preferred)
+### Option 1: Discord (Preferred)
 
-Send an email to: **[dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)**
+Discord DM: **@rizer001_dm**.
+Discord Server: **https://dsc.gg/softwaredev**, use the **#private-tickets** channel.
 
 Include:
 - Description of the vulnerability
