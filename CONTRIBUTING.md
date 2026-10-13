@@ -1,4 +1,4 @@
-# Contributing to 0softwaredevelopment0
+# Contributing to Software Development
 
 Thank you for your interest in contributing! This guide applies to all repositories under the **0softwaredevelopment0** organization and explains how to ask for help, report bugs, suggest features, and submit code.
 
@@ -187,4 +187,4 @@ By submitting a contribution, you agree that your work will be licensed under th
 - **Discord:** [Join our server](https://dsc.gg/softwaredev)
 - **Email:** [dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)
 
-Thank you for helping make the 0softwaredevelopment0 projects better!
+Thank you for helping make the 0softwaredevelopment0 projects better!
