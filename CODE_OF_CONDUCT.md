@@ -39,7 +39,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the organization owner at **[dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)**.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the organization owner at **@rizer001_dm** (Discord DM).
 
 All complaints will be reviewed and investigated promptly and fairly.
 
