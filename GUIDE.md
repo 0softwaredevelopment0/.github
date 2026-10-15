@@ -41,8 +41,10 @@ We build open-source tools and plugins. Some are desktop utilities (portable, si
 | **CubixSMP** | Minecraft plugin | Essentials plugin for the Cubix server |
 | **ShiftBypass** | Minecraft mod | Small Fabric mod that unblocks Shift in some screens |
 | **PingSpoof** | Minecraft mod | Small Fabric mod that sets a custom ping |
+| **FireCode** | Desktop (Rust) | AI chat client that works as a coding agent with terminal control |
 | **NPPsim** | Desktop (Rust) | Nuclear power plant control simulator |
 | **TheMinesweeper** | Desktop (Rust) | Minesweeper game with much more functionality than the original |
+| **QAutoClick** | Desktop (Rust) | Flexible desktop auto-clicker with any-key hotkey binding |
 | **... and more** | — | New projects are added under the same conventions |
 
 Check the organization page for the full up-to-date list: [0softwaredevelopment0](https://github.com/0softwaredevelopment0).
