@@ -27,7 +27,8 @@ These files are automatically referenced by GitHub across all repositories in th
 ```
 .github/
 ├── README.md                    # This file
-├── LICENSE                      # License for this repository
+├── LICENSE.md                   # License for this repository
+├── GUIDE.md                     # Guide to the organization (structure, projects, conventions)
 ├── CONTRIBUTING.md              # Contribution guidelines for all projects
 ├── SECURITY.md                  # Vulnerability reporting policy
 ├── CODE_OF_CONDUCT.md           # Community standards (Contributor Covenant 2.1)

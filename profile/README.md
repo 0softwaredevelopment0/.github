@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/softwaredev)
 [![Website](https://img.shields.io/badge/Website-Click-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizer001.opik.net/)
-[![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/0softwaredevelopment0/.github/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/0softwaredevelopment0/.github/blob/main/LICENSE.md)
 
 ---
 
@@ -24,12 +24,14 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
+| [**FireCode**](https://github.com/0softwaredevelopment0/FireCode) | A desktop client that turns AI chat websites (e.g. DeepSeek) into a coding agent with terminal control — no browser, no API keys | Rust |
 | [**SoundPad**](https://github.com/0softwaredevelopment0/SoundPad) | A free, open-source utility for conveniently playing various sounds | Rust |
 | [**IpParser**](https://github.com/0softwaredevelopment0/IpParser) | An open-source IP address parser for quickly checking a huge number of IP addresses | Rust |
 | [**UltraMonitor**](https://github.com/0softwaredevelopment0/UltraMonitor) | An open-source monitor for system sensors and stress tests | Rust |
 | [**DirectMessages**](https://github.com/0softwaredevelopment0/DirectMessages) | A utility that allows you to send encrypted messages to a specific IP address | Rust |
 | [**NPPsim**](https://github.com/0softwaredevelopment0/NPPsim) | Nuclear Power Plant Control Simulator | Rust |
 | [**TheMinesweeper**](https://github.com/0softwaredevelopment0/TheMinesweeper) | The game Minesweeper, written in Rust, with much more functionality than the original | Rust |
+| [**QAutoClick**](https://github.com/0softwaredevelopment0/QAutoClick) | A flexible and fast desktop auto-clicker for a variety of tasks | Rust |
 
 ### Web
 
@@ -41,9 +43,9 @@
 
 ## Organization Stats
 
-| Repositories | Languages | License |
-|:---:|:---:|:---:|
-| **13** | Java, Rust, TypeScript | **AGPL-3.0** |
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2F0softwaredevelopment0&query=%24.public_repos&label=repos&logo=github&style=for-the-badge&color=181717)](https://github.com/orgs/0softwaredevelopment0/repositories)
+![Languages](https://img.shields.io/badge/languages-Java_·_Rust_·_TypeScript-blue?style=for-the-badge)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/0softwaredevelopment0/.github/blob/main/LICENSE.md)
 
 ---
 
