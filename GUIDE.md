@@ -37,7 +37,7 @@ We build open-source tools and plugins. Some are desktop utilities (portable, si
 | **UltraMonitor** | Desktop (Rust) | Hardware monitoring and stress tests |
 | **DirectMessages** | Desktop (Rust) | Encrypted peer-to-peer messenger over TCP |
 | **OrganizationWebsite** | Web (TypeScript) | Organization website |
-| **UltimateImprovments** | Minecraft plugin | Big feature plugin (tech, security, achievements) |
+| **UltimateImprovements** | Minecraft plugin | Big feature plugin (tech, security, achievements) |
 | **CubixSMP** | Minecraft plugin | Essentials plugin for the Cubix server |
 | **ShiftBypass** | Minecraft mod | Small Fabric mod that unblocks Shift in some screens |
 | **PingSpoof** | Minecraft mod | Small Fabric mod that sets a custom ping |

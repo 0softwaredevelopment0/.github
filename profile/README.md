@@ -15,7 +15,7 @@
 | Project | Description | Language |
 |---------|-------------|----------|
 | [**RustLauncher**](https://github.com/0softwaredevelopment0/RustLauncher) | A Minecraft launcher that lets you launch Minecraft quickly and efficiently | Rust |
-| [**UltimateImprovments**](https://github.com/0softwaredevelopment0/UltimateImprovments) | A modular plugin that adds many features to improve your gameplay | Java |
+| [**UltimateImprovements**](https://github.com/0softwaredevelopment0/UltimateImprovements) | A modular plugin that adds many features to improve your gameplay | Java |
 | [**CubixSMP**](https://github.com/0softwaredevelopment0/CubixSMP) | A plugin for the CubixSMP server, developed at the request of Gomaks | Java |
 | [**ShiftBypass**](https://github.com/0softwaredevelopment0/ShiftBypass) | A small mod for Fabric that lets you disable the rule that prevents pressing Shift in some screens | Java |
 | [**PingSpoof**](https://github.com/0softwaredevelopment0/PingSpoof) | A small mod for Fabric that lets you set a custom ping on the server | Java |
